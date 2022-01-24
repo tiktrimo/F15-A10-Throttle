@@ -9,7 +9,7 @@ Also, number of bolts and nuts in the Bill of Material might not be accurate. Bu
 
 ## How to assemble this thing?
 Full Assembly will look like this<br>
-CAD : https://cad.onshape.com/documents/9c9382d8df36aa0526aca5f2/w/d303e81adbf04704e1026cf4/e/e40f8d27cd1b9c80dca9e98c <br>
+CAD : https://cad.onshape.com/documents/9c9382d8df36aa0526aca5f2/w/d303e81adbf04704e1026cf4/e/1ef068ff7ca92a8c92d3e0b5 <br>
 
 BoM & Notes:<br>
 - Bearing 6901zz * 2
