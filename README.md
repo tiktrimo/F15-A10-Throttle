@@ -1,6 +1,6 @@
 # F15/A10 Throttle Clone
 <img src="https://github.com/tiktrimo/F15-A10-Throttle/blob/main/F15A10%20throttle%20cad%20rendering.png" width="400">
-Gallery : https://imgur.com/gallery/hdTKJGj
+Gallery : https://imgur.com/gallery/xxKNfmi
 
 ## Before starting
 Most of parts have gaps(0.1mm ~ 0.15mm) between them. This value needs to be changed by the setting of printer/filament you use. <br>
