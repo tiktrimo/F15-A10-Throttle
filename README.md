@@ -23,7 +23,7 @@ BoM & Notes:<br>
 - MTS-103 * 6 : 3step Toggle switch (If you want 2step Toggle switch use MTS-102)
 - M2013LL1W01 * 1 : 3step locking Toggle switch (You can just use MTS-103/102)
 - 100SP3T6B11M1QE * 1 : 3step flat head Toggle switch (You can just use MTS-103/102)
-- TH101010 * 3 (5 Way switch) (If you cant find this particular switch find one! [dimension](https://github.com/tiktrimo/MIG23MLD-Joystick-Gimbal/blob/main/images/Image%20001.png))
+- TH101010 * 3 (5 Way switch) (If you cant find this particular switch, find one! [dimension](https://github.com/tiktrimo/MIG23MLD-Joystick-Gimbal/blob/main/images/Image%20001.png))
 - Arduino Leonardo
 - MCP23017-E/SP : IO extender
 - WSH138-XPAN2 Hall effect sensor * 2 : Costs a dollar. With 4x4x10mm neodymium magnet it gives 250 steps.
