@@ -1,5 +1,6 @@
 # F15/A10 Throttle Clone
 <img src="https://github.com/tiktrimo/F15-A10-Throttle/blob/main/F15A10%20throttle%20cad%20rendering.png" width="400">
+<img src="https://github.com/tiktrimo/F15-A10-Throttle/blob/main/thumbnail.JPG" width="400">
 Gallery : https://imgur.com/gallery/xxKNfmi
 
 ## Before starting
