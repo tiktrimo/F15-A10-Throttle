@@ -2,7 +2,7 @@
 <img src="https://github.com/tiktrimo/F15-A10-Throttle/blob/main/F15A10%20throttle%20cad%20rendering.png" width="400">
 <img src="https://github.com/tiktrimo/F15-A10-Throttle/blob/main/thumbnail.JPG" width="400">
 more images : <br>
-https://imgur.com/gallery/hdTKJGj
+https://imgur.com/gallery/hdTKJGj <br>
 https://imgur.com/gallery/xxKNfmi
 
 ## Before starting
